@@ -31,11 +31,34 @@ An intuitive mobile application built using **Flutter** to empower users with te
 
 ---
 
-### 🌍 Open Source Contribution
+## 🌍 Open Source Contribution
 
 Actively contributing to the Flutter community through open-source packages.
 
-📦 Published/Contributed on [**pub.dev**](https://pub.dev/packages/find_min_distance)
+---
+
+### 📦 Published / Contributed on [pub.dev](https://pub.dev)
+
+#### **[flutter_widget_tree](https://pub.dev/packages/flutter_widget_tree)**
+[![pub package](https://img.shields.io/pub/v/flutter_widget_tree.svg)](https://pub.dev/packages/flutter_widget_tree)
+[![likes](https://img.shields.io/pub/likes/flutter_widget_tree)](https://pub.dev/packages/flutter_widget_tree/score)
+[![points](https://img.shields.io/pub/points/flutter_widget_tree)](https://pub.dev/packages/flutter_widget_tree/score)
+[![Dart SDK](https://img.shields.io/badge/sdk-%3E=2.17.0-blue.svg)](https://dart.dev)
+
+A CLI tool to extract and visualize Flutter widget tree structures from Dart files.  
+🚀 Helps developers understand widget hierarchy and file relationships in Flutter projects.
+
+---
+
+#### **[find_min_distance](https://pub.dev/packages/find_min_distance)**
+[![pub package](https://img.shields.io/pub/v/find_min_distance.svg)](https://pub.dev/packages/find_min_distance)
+[![likes](https://img.shields.io/pub/likes/find_min_distance)](https://pub.dev/packages/find_min_distance/score)
+[![Pub Points](https://img.shields.io/pub/points/find_min_distance)](https://pub.dev/packages/find_min_distance/score)
+[![Dart SDK](https://img.shields.io/badge/sdk-%3E=2.17.0-blue.svg)](https://dart.dev)
+
+A Dart package to calculate the minimum distance between points efficiently.  
+⚡ Optimized for performance and ease of use in Flutter and Dart projects.
+
 
 ---
 
