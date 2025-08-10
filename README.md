@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Bhardwaj</h1>
-<h3 align="center">Final Year B.Tech Student | Flutter Dev | Django Enthusiast | AI/ML Explorer</h3>
+<h3 align="center">Final Year B.Tech Student | Python | Flutter Dev | C++ | Django Enthusiast | AI/ML Explorer</h3>
 
 ---
 
@@ -33,9 +33,21 @@ An intuitive mobile application built using **Flutter** to empower users with te
 
 ## 🌍 Open Source Contribution
 
-Actively contributing to the Flutter community through open-source packages.
+Actively contributing to the Python and Flutter community through open-source packages.
 
 ---
+
+### 📦 Published / Contributed on [PyPI](https://pypi.org)
+
+#### **[min_distance](https://pypi.org/project/min_distance/)**
+[![PyPI version](https://img.shields.io/pypi/v/min_distance.svg)](https://pypi.org/project/min_distance/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/min_distance)](https://pypi.org/project/min_distance/)
+
+A Python package to efficiently calculate the minimum distance between points.  
+⚡ Designed for high performance and easy integration in Python projects.
+
+---
+
 
 ### 📦 Published / Contributed on [pub.dev](https://pub.dev)
 
