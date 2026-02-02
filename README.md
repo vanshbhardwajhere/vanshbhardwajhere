@@ -95,17 +95,7 @@ A Dart package to calculate the minimum distance between points efficiently.
 📌 Currently open to **internship** or **full-time roles** in **Flutter Development**, **AI/ML**, or **Full Stack Web Development**  
 💬 Reach out if you’re hiring, collaborating, or just want to chat tech!
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbhardwajhere&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbhardwajhere&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbhardwajhere&layout=compact&theme=tokyonight" />
-</p>
+>
 
 ---
 
